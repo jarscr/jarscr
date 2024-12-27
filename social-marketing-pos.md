@@ -50,4 +50,9 @@ Moderniza tu negocio con nuestro Software de Punto de Ventas con Facturación El
 #JARSCostaRica #FacturaciónElectrónica #DescuentoAniversario
 ```
 
-Estas publicaciones están diseñadas para captar la atención de tu audiencia y destacar las ventajas del nuevo software, mientras celebran el aniversario de JARS Costa Rica. ¿Hay algo más en lo que pueda ayudarte?
+**Imagen:**
+```
+Fondo: Un diseño llamativo con colores de urgencia como el rojo o el naranja.
+Elementos: Un reloj o un ícono de cuenta regresiva.
+Texto en la imagen: “Última Oportunidad” y “25% de descuento”.
+```
