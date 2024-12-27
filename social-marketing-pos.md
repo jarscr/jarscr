@@ -64,6 +64,13 @@ Moderniza tu negocio con nuestro Software de Punto de Ventas con Facturación El
 
 
 
+**Imagen:**
+- **Fondo:** Un diseño llamativo con colores de urgencia como el rojo o el naranja.
+- **Elementos:** Un reloj o un ícono de cuenta regresiva.
+- **Texto en la imagen:** "No dejes pasar esta oportunidad".
+
+
+
 
 1. **"Transforma tu negocio con tecnología avanzada"**
 2. **"Innovación en cada transacción"**
@@ -72,8 +79,3 @@ Moderniza tu negocio con nuestro Software de Punto de Ventas con Facturación El
 5. **"Optimiza tu negocio con JARS Costa Rica"**
 
 Estas frases están diseñadas para captar la atención y comunicar claramente los beneficios de tus productos. Puedes elegir la que mejor se adapte a la imagen y mensaje que quieres transmitir en tu portada de Facebook. 
-
-**Imagen:**
-- **Fondo:** Un diseño llamativo con colores de urgencia como el rojo o el naranja.
-- **Elementos:** Un reloj o un ícono de cuenta regresiva.
-- **Texto en la imagen:** "No dejes pasar esta oportunidad".
